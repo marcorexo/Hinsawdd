@@ -2,10 +2,8 @@
 
 <div align="center">
   <p float="left">
-    <img src="screenshot1.jpg" width="24%" />
-    <img src="screenshot2.jpg" width="24%" />
-    <img src="screenshot3.jpg" width="24%" />
-    <img src="screenshot4.jpg" width="24%" />
+    <img src="w1.jpg" width="24%" />
+    <img src="w2.jpg" width="24%" />
   </p>
 </div>
 
